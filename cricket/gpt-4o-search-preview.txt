@@ -1,0 +1,9 @@
+{
+  "n": 100,
+  "answer_rate": 0.98,
+  "accuracy_overall": 0.89,
+  "accuracy_when_answered": 0.9082,
+  "hallucination_rate_when_answered": 0.0918,
+  "items_csv": "gpt-4o-search-preview/items.csv",
+  "wrong_csv": "gpt-4o-search-preview/wrong.csv"
+}

@@ -1,0 +1,4 @@
+idx,type,source,gold,pred,prompt,model_raw
+20,top_wicket_taker_name,t20s_male/1440463.yaml,"[""SA Abbott""]",A Zampa,"Who took the most wickets in the match between Scotland and Australia on 2024-09-04 at Grange Cricket Club Ground, Raeburn Place, Edinburgh?","{""choice"":""A Zampa""}"
+46,top_wicket_taker_name,t20s_male/1400972.yaml,"[""C Udekwe"", ""E Rukiriza""]",E Sebareme,"Who took the most wickets in the match between Nigeria and Rwanda on 2023-10-04 at Tafawa Balewa Square Cricket Oval, Lagos?","{""choice"":""E Sebareme""}"
+56,top_scorer_name,t20s_male/1436474.yaml,"[""Karanbir Singh""]",AN Lascu,"Who scored the most runs in the match between Austria and Romania on 2024-06-09 at Simar Cricket Ground, Rome?","{""choice"":""AN Lascu""}"

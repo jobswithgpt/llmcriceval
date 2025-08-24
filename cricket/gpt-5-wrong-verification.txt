@@ -1,0 +1,28 @@
+Verification using chatgpt+search:
+
+* **idx 3 — Top scorer (BAN vs ZIM, 2016-01-15, Khulna):** Hamilton Masakadza 79 (match-high). ✔ Cricsheet right; model wrong. ([ESPN Cricinfo][1], [Cricbuzz][2])
+* **idx 13 — 2nd-innings team total (IRE vs PAK, 2024-05-12, Dublin):** Pakistan 195/3 chasing 194. ✔ Cricsheet right; model wrong. ([ESPN Cricinfo][3], [ESPN.com][4])
+* **idx 19 — Most wickets (SCO vs GER, 2023-07-20, Goldenacre):** Joint-top with 2 each: GT Main, MRJ Watt, SM Sharif (Scot) and **Sahir Naqash** (Ger). ✔ Cricsheet right; model wrong. ([Cricbuzz][5])
+* **idx 22 — Top scorer (NZ vs BAN, 2023-12-27, Napier):** James Neesham 48 (match-high). ✔ Cricsheet right; model wrong. ([ESPN Cricinfo][6], [Hindustan Times][7])
+* **idx 28 — Toss decision (HKG vs OMAN, 2016-02-19, Fatullah):** Oman elected to **bat**. ✔ Cricsheet right; model wrong. ([ESPN Cricinfo][8], [ESPN.com][9])
+* **idx 51 — Win margin runs (WI vs SA, 2010-05-19, North Sound):** South Africa won by **13 runs**. ✔ Cricsheet right; model wrong. ([ESPN Cricinfo][10])
+* **idx 54 — Amjad Javed wickets (PAK vs UAE, 2016-02-29, Mirpur):** **3** wickets (3-36). ✔ Cricsheet right; model wrong. ([ESPN Cricinfo][11], [Cricbuzz][12])
+* **idx 73 — Most wickets (SA vs NZ, 2015-08-16, Centurion):** Kagiso Rabada **3-30** (best in match). ✔ Cricsheet right; model wrong. ([ESPN Cricinfo][13], [Cricbuzz][14])
+
+Net: in all eight cases, the public scorecards match Cricsheet; the “wrong.csv” values are model errors.
+
+[1]: https://www.espncricinfo.com/series/zimbabwe-tour-of-bangladesh-jan-2016-2015-16-958411/bangladesh-vs-zimbabwe-1st-match-958415/match-report?utm_source=chatgpt.com "Shakib cameo seals tense Bangladesh win"
+[2]: https://www.cricbuzz.com/live-cricket-scorecard/16315/ban-vs-zim-1st-t20i-zimbabwe-tour-of-bangladesh-2016?utm_source=chatgpt.com "Bangladesh vs Zimbabwe, 1st T20I - Cricket scorecard"
+[3]: https://www.espncricinfo.com/series/ireland-vs-pakistan-2024-1426828/ireland-vs-pakistan-2nd-t20i-1426831/full-scorecard?utm_source=chatgpt.com "IRE vs PAK Cricket Scorecard, 2nd T20I at Dublin, May 12, ..."
+[4]: https://www.espn.com/cricket/series/22148/coverage/1426831/ireland-vs-pakistan-2nd-t20i-ireland-vs-pakistan-2024?utm_source=chatgpt.com "Ireland vs Pakistan 2nd T20I 2024 Match Analysis, Reports"
+[5]: https://www.cricbuzz.com/live-cricket-scorecard/70817/sco-vs-ger-3rd-match-icc-mens-t20-world-cup-europe-qualifier-2023 "Cricket scorecard - Scotland vs Germany, 3rd Match, ICC Mens T20 World Cup Europe Qualifier 2023 | Cricbuzz.com"
+[6]: https://www.espncricinfo.com/series/bangladesh-in-new-zealand-2023-24-1388181/new-zealand-vs-bangladesh-1st-t20i-1388213/match-report?utm_source=chatgpt.com "Mahedi, Shoriful and Litton stun New Zealand in series- ..."
+[7]: https://www.hindustantimes.com/cricket/live-full-scorecard-nz-vs-ban-ban-in-nz-3-t20is-2023-1st-t20i-new-zealand-vs-bangladesh-t20-nzba12272023230197?utm_source=chatgpt.com "NZ vs BAN Live Full Scorecard - New Zealand"
+[8]: https://www.espncricinfo.com/series/asia-cup-2015-16-966595/hong-kong-vs-oman-qualifying-group-2nd-match-966735/full-scorecard?utm_source=chatgpt.com "HKG vs OMA Cricket Scorecard, Qualifying Group, 2nd ..."
+[9]: https://www.espn.com/cricket/series/8532/game/966735/hong-kong-vs-oman-qualifying-group-2nd-match-mens-t20-asia-cup-2015-16?utm_source=chatgpt.com "Hong Kong vs Oman, Men's T20 Asia Cup 2016, Qualifying ..."
+[10]: https://www.espncricinfo.com/series/south-africa-tour-of-west-indies-2010-439110/west-indies-vs-south-africa-1st-t20i-439146/full-scorecard?utm_source=chatgpt.com "WI vs SA Cricket Scorecard, 1st T20I at North Sound, May ..."
+[11]: https://www.espncricinfo.com/series/asia-cup-2015-16-966595/pakistan-vs-united-arab-emirates-6th-match-966755/match-report?utm_source=chatgpt.com "Pakistan overcome hiccups for seven-wicket win"
+[12]: https://www.cricbuzz.com/live-cricket-scorecard/16340/pak-vs-uae-6th-match-asia-cup-2016?utm_source=chatgpt.com "Pakistan vs United Arab Emirates, 6th Match, Asia Cup, 2016"
+[13]: https://www.espncricinfo.com/series/new-zealand-tour-of-zimbabwe-and-south-africa-2015-848811/south-africa-vs-new-zealand-2nd-t20i-848841/match-report?utm_source=chatgpt.com "Guptill drives electric NZ to big victory"
+[14]: https://www.cricbuzz.com/live-cricket-scorecard/14783/rsa-vs-nz-2nd-t20i-new-zealand-tour-of-south-africa-2015?utm_source=chatgpt.com "Cricket scorecard - South Africa vs New Zealand, 2nd T20I ..."
+

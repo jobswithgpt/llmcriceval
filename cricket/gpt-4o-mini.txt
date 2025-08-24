@@ -1,0 +1,9 @@
+{
+  "n": 100,
+  "answer_rate": 0.37,
+  "accuracy_overall": 0.14,
+  "accuracy_when_answered": 0.3784,
+  "hallucination_rate_when_answered": 0.6216,
+  "items_csv": "gpt-4o-mini/items.csv",
+  "wrong_csv": "gpt-4o-mini/wrong.csv"
+}

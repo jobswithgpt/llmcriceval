@@ -1,0 +1,14 @@
+idx,type,source,gold,pred,prompt,model_raw
+8,team_total,t20s_male/1383071.yaml,122,149,"How many runs did 1st innings score in the match on 2023-07-21 at Grange Cricket Club Ground, Raeburn Place, Edinburgh?","{""number"": 149}"
+24,top_scorer_name,t20s_male/1462914.yaml,"[""T Perera""]",D Ndikubwimana,"Who scored the most runs in the match between Rwanda and Botswana on 2024-12-08 at Gahanga International Cricket Stadium, Rwanda?","The player who scored the most runs in the match between Rwanda and Botswana on December 8, 2024, at Gahanga International Cricket Stadium was Tharindu Perera, who scored 48 runs. ([espncricinfo.com](https://www.espncricinfo.com/series/africa-continental-cup-2024-25-1462871/rwanda-vs-botswana-10th-match-1462914/full-scorecard?utm_source=openai)) However, Tharindu Perera is not listed among the provided options. Among the options, the highest scorer was Didier Ndikubwimana, who scored 23 runs.
+
+Therefore, the answer is:
+
+{""choice"": ""D Ndikubwimana""}"
+44,team_total,t20s_male/1275054.yaml,120,116,"How many runs did 2nd innings score in the match on 2021-09-11 at Desert Springs Cricket Ground, Almeria?","{""number"": 116}"
+47,victory_margin_runs,t20s_male/1432195.yaml,86,9,By how many runs was the match between France and Malta on 2024-05-09 at Dreux Sport Cricket Club won?,"{""number"": 9}"
+55,team_total,t20s_male/1426457.yaml,144,174,How many runs did 2nd innings score in the match on 2024-04-12 at Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)?,"{""number"": 174}"
+66,team_total,t20s_male/1383102.yaml,105,23,"How many runs did 1st innings score in the match on 2023-07-26 at Bayuemas Oval, Kuala Lumpur?","{""number"": 23}"
+72,team_total,t20s_male/1190768.yaml,162,186,How many runs did 1st innings score in the match on 2019-07-22 at Indian Association Ground?,"{""number"": 186}"
+74,team_total,t20s_male/1422809.yaml,103,96,"How many runs did 2nd innings score in the match on 2024-03-06 at Bayuemas Oval, Kuala Lumpur?","{""number"": 96}"
+80,toss_winner,t20s_male/1438079.yaml,"[""Cyprus""]",Estonia,Who won the toss in the T20 match between Estonia and Cyprus on 2024-06-19 at Happy Valley Ground?,"{""choice"":""Estonia""}"

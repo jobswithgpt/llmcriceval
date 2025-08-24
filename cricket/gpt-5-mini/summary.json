@@ -1,0 +1,78 @@
+{
+  "n": 100,
+  "answer_rate": 0.05,
+  "accuracy_overall": 0.02,
+  "accuracy_when_answered": 0.4,
+  "hallucination_rate_when_answered": 0.6,
+  "by_type": {
+    "top_wicket_taker_wickets": {
+      "n": 11,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "victory_margin_runs": {
+      "n": 4,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "top_scorer_name": {
+      "n": 8,
+      "answer_rate": 0.125,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 1.0
+    },
+    "match_winner": {
+      "n": 8,
+      "answer_rate": 0.125,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "team_total": {
+      "n": 22,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "toss_decision": {
+      "n": 13,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "toss_winner": {
+      "n": 8,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "top_wicket_taker_name": {
+      "n": 8,
+      "answer_rate": 0.375,
+      "accuracy_when_answered": 0.3333333333333333,
+      "hallucination_rate_when_answered": 0.6666666666666666
+    },
+    "total_match_runs": {
+      "n": 12,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "top_scorer_runs": {
+      "n": 4,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "victory_margin_wkts": {
+      "n": 2,
+      "answer_rate": 0.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 0.0
+    }
+  },
+  "outputs_jsonl": "gpt-5-mini/outputs.jsonl",
+  "items_csv": "gpt-5-mini/items.csv",
+  "wrong_csv": "gpt-5-mini/wrong.csv"
+}

@@ -1,0 +1,78 @@
+{
+  "n": 100,
+  "answer_rate": 0.37,
+  "accuracy_overall": 0.14,
+  "accuracy_when_answered": 0.3783783783783784,
+  "hallucination_rate_when_answered": 0.6216216216216216,
+  "by_type": {
+    "top_wicket_taker_wickets": {
+      "n": 11,
+      "answer_rate": 0.36363636363636365,
+      "accuracy_when_answered": 0.5,
+      "hallucination_rate_when_answered": 0.5
+    },
+    "victory_margin_runs": {
+      "n": 4,
+      "answer_rate": 0.75,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 1.0
+    },
+    "top_scorer_name": {
+      "n": 8,
+      "answer_rate": 0.5,
+      "accuracy_when_answered": 0.25,
+      "hallucination_rate_when_answered": 0.75
+    },
+    "match_winner": {
+      "n": 8,
+      "answer_rate": 0.75,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "team_total": {
+      "n": 22,
+      "answer_rate": 0.045454545454545456,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 1.0
+    },
+    "toss_decision": {
+      "n": 13,
+      "answer_rate": 0.38461538461538464,
+      "accuracy_when_answered": 0.2,
+      "hallucination_rate_when_answered": 0.8
+    },
+    "toss_winner": {
+      "n": 8,
+      "answer_rate": 0.625,
+      "accuracy_when_answered": 0.6,
+      "hallucination_rate_when_answered": 0.4
+    },
+    "top_wicket_taker_name": {
+      "n": 8,
+      "answer_rate": 0.375,
+      "accuracy_when_answered": 0.3333333333333333,
+      "hallucination_rate_when_answered": 0.6666666666666666
+    },
+    "total_match_runs": {
+      "n": 12,
+      "answer_rate": 0.25,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 1.0
+    },
+    "top_scorer_runs": {
+      "n": 4,
+      "answer_rate": 0.25,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 1.0
+    },
+    "victory_margin_wkts": {
+      "n": 2,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 0.0,
+      "hallucination_rate_when_answered": 1.0
+    }
+  },
+  "outputs_jsonl": "gpt-4o-mini/outputs.jsonl",
+  "items_csv": "gpt-4o-mini/items.csv",
+  "wrong_csv": "gpt-4o-mini/wrong.csv"
+}

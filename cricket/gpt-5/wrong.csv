@@ -1,0 +1,9 @@
+idx,type,source,gold,pred,prompt,model_raw
+3,top_scorer_name,t20s_male/958415.yaml,"[""H Masakadza""]",Sabbir Rahman,Who scored the most runs in the match between Bangladesh and Zimbabwe on 2016-01-15 at Sheikh Abu Naser Stadium?,"{""choice"":""Sabbir Rahman""}"
+13,team_total,t20s_male/1426831.yaml,195,197,"How many runs did 2nd innings score in the match on 2024-05-12 at Castle Avenue, Dublin?","{""number"": 197}"
+19,top_wicket_taker_name,t20s_male/1383070.yaml,"[""GT Main"", ""MRJ Watt"", ""SM Sharif"", ""Sahir Naqash""]",CN Greaves,"Who took the most wickets in the match between Scotland and Germany on 2023-07-20 at Goldenacre, Edinburgh?","{""choice"":""CN Greaves""}"
+22,top_scorer_name,t20s_male/1388213.yaml,"[""JDS Neesham""]",Towhid Hridoy,"Who scored the most runs in the match between New Zealand and Bangladesh on 2023-12-27 at McLean Park, Napier?","{""choice"":""Towhid Hridoy""}"
+28,toss_decision,t20s_male/966735.yaml,"[""bat""]",field,What was the toss decision in the T20 match between Hong Kong and Oman on 2016-02-19 at Khan Shaheb Osman Ali Stadium?,"{""choice"":""field""}"
+51,victory_margin_runs,t20s_male/439146.yaml,13,1,"By how many runs was the match between West Indies and South Africa on 2010-05-19 at Sir Vivian Richards Stadium, North Sound won?","{""number"": 1}"
+54,top_wicket_taker_wickets,t20s_male/966755.yaml,3,1,How many wickets did Amjad Javed take in the match between Pakistan and United Arab Emirates on 2016-02-29 at Shere Bangla National Stadium?,"{""number"": 1}"
+73,top_wicket_taker_name,t20s_male/848841.yaml,"[""K Rabada""]",E Leie,Who took the most wickets in the match between South Africa and New Zealand on 2015-08-16 at SuperSport Park?,"{""choice"":""E Leie""}"

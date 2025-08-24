@@ -1,0 +1,167 @@
+idx,type,source,answered,correct,hallucination,gold,pred,prompt,model_raw
+1,top_wicket_taker_wickets,t20s_male/1298151.yaml,1,1,0,4,4,"How many wickets did Taskin Ahmed take in the match between Bangladesh and Netherlands on 2022-10-24 at Bellerive Oval, Hobart?","{""number"": 4}"
+2,victory_margin_runs,t20s_male/1299580.yaml,1,1,0,68,68,By how many runs was the match between United Arab Emirates and Nepal on 2022-02-22 at Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1) won?,"{""number"": 68}"
+3,top_scorer_name,t20s_male/958415.yaml,1,1,0,"[""H Masakadza""]",H Masakadza,Who scored the most runs in the match between Bangladesh and Zimbabwe on 2016-01-15 at Sheikh Abu Naser Stadium?,"{""choice"": ""H Masakadza""}"
+4,match_winner,t20s_male/1444962.yaml,1,1,0,"[""Fiji""]",Fiji,"Who won the match between Fiji and Cook Islands on 2024-08-24 at Faleata Oval No 2, Apia?","{""choice"":""Fiji""}"
+5,match_winner,t20s_male/1074964.yaml,1,1,0,"[""Scotland""]",Scotland,Who won the match between Netherlands and Scotland on 2017-01-17 at Sheikh Zayed Stadium?,"{""choice"":""Scotland""}"
+6,match_winner,t20s_male/1475528.yaml,1,1,0,"[""Bahrain""]",Bahrain,"Who won the match between Bahrain and Malaysia on 2025-03-13 at Bayuemas Oval, Kuala Lumpur?","{""choice"":""Bahrain""}"
+7,top_wicket_taker_wickets,t20s_male/1115807.yaml,1,1,0,3,3,How many wickets did SHA Rance take in the match between Pakistan and New Zealand on 2018-01-22 at Westpac Stadium?,"{""number"": 3}"
+8,team_total,t20s_male/1383071.yaml,1,0,1,122,149,"How many runs did 1st innings score in the match on 2023-07-21 at Grange Cricket Club Ground, Raeburn Place, Edinburgh?","{""number"": 149}"
+9,top_wicket_taker_wickets,t20s_male/1488334.yaml,1,1,0,3,3,"How many wickets did Kaleem Sana take in the match between Bahamas and Canada on 2025-06-21 at Maple Leaf North-West Ground, King City?","{""number"": 3}"
+10,team_total,t20s_male/1252067.yaml,1,1,0,160,160,"How many runs did 1st innings score in the match on 2021-03-05 at Coolidge Cricket Ground, Antigua?","{""number"": 160}"
+11,toss_decision,t20s_male/1428743.yaml,1,1,0,"[""field""]",field,What was the toss decision in the T20 match between Mexico and Costa Rica on 2024-04-12 at Los Reyes Polo Club?,"{""choice"":""field""}"
+12,toss_decision,t20s_male/1184260.yaml,1,1,0,"[""field""]",field,What was the toss decision in the T20 match between Uganda and Botswana on 2019-05-20 at Lugogo Cricket Oval?,"{""choice"":""field""}"
+13,team_total,t20s_male/1426831.yaml,1,1,0,195,195,"How many runs did 2nd innings score in the match on 2024-05-12 at Castle Avenue, Dublin?","{""number"": 195}"
+14,top_wicket_taker_wickets,t20s_male/1424755.yaml,1,1,0,5,5,"How many wickets did LN Oluoch take in the match between Uganda and Kenya on 2024-03-17 at Achimota Senior Secondary School B Field, Accra?","{""number"": 5}"
+15,toss_winner,t20s_male/1327504.yaml,1,1,0,"[""India""]",India,"Who won the toss in the T20 match between Australia and India on 2022-09-23 at Vidarbha Cricket Association Stadium, Jamtha, Nagpur?","{""choice"":""India""}"
+16,top_wicket_taker_name,t20s_male/1482825.yaml,1,1,0,"[""J Coetzee"", ""S Ravichandran""]",J Coetzee,Who took the most wickets in the match between Japan and Thailand on 2025-05-11 at Sano International Cricket Ground?,"{""choice"":""J Coetzee""}"
+17,total_match_runs,t20s_male/1447487.yaml,1,1,0,95,95,"What was the total runs scored in the match between Myanmar and Kuwait on 2024-09-03 at Bayuemas Oval, Kuala Lumpur (both teams combined)?","{""number"": 95}"
+18,top_wicket_taker_wickets,t20s_male/1448347.yaml,1,1,0,2,2,"How many wickets did AS Joseph take in the match between West Indies and England on 2025-06-08 at County Ground, Bristol?","{""number"": 2}"
+19,top_wicket_taker_name,t20s_male/1383070.yaml,0,0,0,"[""GT Main"", ""MRJ Watt"", ""SM Sharif"", ""Sahir Naqash""]",,"Who took the most wickets in the match between Scotland and Germany on 2023-07-20 at Goldenacre, Edinburgh?","In the match between Scotland and Germany on July 20, 2023, at Goldenacre, Edinburgh, the following bowlers took 2 wickets each:
+
+- Mark Watt
+- Safyaan Sharif
+- Gavin Main
+- Sahir Naqash
+
+Since multiple bowlers took the most wickets (2 each), and all are among the provided options, the answer is:
+
+```json
+{""choice"": ""Mark Watt""}
+```"
+20,top_wicket_taker_name,t20s_male/1440463.yaml,1,1,0,"[""SA Abbott""]",SA Abbott,"Who took the most wickets in the match between Scotland and Australia on 2024-09-04 at Grange Cricket Club Ground, Raeburn Place, Edinburgh?","In the T20I match between Scotland and Australia on September 4, 2024, at Grange Cricket Club Ground, Edinburgh, the bowler who took the most wickets was Sean Abbott, with 3 wickets. ([cricketnmore.com](https://www.cricketnmore.com/cricket-livescore/scorecard/13071998650/australia-tour-of-scotland-1?utm_source=openai))
+
+{""choice"": ""SA Abbott""}"
+21,toss_winner,t20s_male/1431121.yaml,1,1,0,"[""Japan""]",Japan,Who won the toss in the T20 match between Japan and Mongolia on 2024-05-08 at Sano International Cricket Ground?,"{""choice"":""Japan""}"
+22,top_scorer_name,t20s_male/1388213.yaml,1,1,0,"[""JDS Neesham""]",JDS Neesham,"Who scored the most runs in the match between New Zealand and Bangladesh on 2023-12-27 at McLean Park, Napier?","{""choice"":""JDS Neesham""}"
+23,victory_margin_runs,t20s_male/560921.yaml,1,1,0,56,56,By how many runs was the match between New Zealand and West Indies on 2012-06-30 at Central Broward Regional Park Stadium Turf Ground won?,"{""number"": 56}"
+24,top_scorer_name,t20s_male/1462914.yaml,1,0,1,"[""T Perera""]",D Ndikubwimana,"Who scored the most runs in the match between Rwanda and Botswana on 2024-12-08 at Gahanga International Cricket Stadium, Rwanda?","The player who scored the most runs in the match between Rwanda and Botswana on December 8, 2024, at Gahanga International Cricket Stadium was Tharindu Perera, who scored 48 runs. ([espncricinfo.com](https://www.espncricinfo.com/series/africa-continental-cup-2024-25-1462871/rwanda-vs-botswana-10th-match-1462914/full-scorecard?utm_source=openai)) However, Tharindu Perera is not listed among the provided options. Among the options, the highest scorer was Didier Ndikubwimana, who scored 23 runs.
+
+Therefore, the answer is:
+
+{""choice"": ""D Ndikubwimana""}"
+25,toss_winner,t20s_male/682931.yaml,1,1,0,"[""New Zealand""]",New Zealand,Who won the toss in the T20 match between New Zealand and South Africa on 2014-03-24 at Zahur Ahmed Chowdhury Stadium?,"{""choice"":""New Zealand""}"
+26,total_match_runs,t20s_male/1199511.yaml,1,1,0,208,208,What was the total runs scored in the match between Hong Kong and Oman on 2019-10-20 at Sheikh Zayed Stadium (both teams combined)?,"{""number"": 208}"
+27,top_wicket_taker_name,t20s_male/1398299.yaml,1,1,0,"[""CJA Amini"", ""J Kariko""]",J Kariko,"Who took the most wickets in the match between Malaysia and Papua New Guinea on 2023-09-23 at Bayuemas Oval, Kuala Lumpur?","The player who took the most wickets in the match between Malaysia and Papua New Guinea on September 23, 2023, at Bayuemas Oval, Kuala Lumpur, was John Kariko, with 4 wickets for 11 runs. ([espncricinfo.com](https://www.espncricinfo.com/series/malaysia-tri-nation-t20i-series-2023-1398291/malaysia-vs-papua-new-guinea-5th-match-1398299/live-cricket-score?utm_source=openai))
+
+Therefore, the correct choice is:
+
+{""choice"":""J Kariko""}"
+28,toss_decision,t20s_male/966735.yaml,1,1,0,"[""bat""]",bat,What was the toss decision in the T20 match between Hong Kong and Oman on 2016-02-19 at Khan Shaheb Osman Ali Stadium?,"{""choice"":""bat""}"
+29,toss_winner,t20s_male/682925.yaml,1,1,0,"[""New Zealand""]",New Zealand,Who won the toss in the T20 match between England and New Zealand on 2014-03-22 at Zahur Ahmed Chowdhury Stadium?,"{""choice"":""New Zealand""}"
+30,toss_decision,t20s_male/523736.yaml,1,1,0,"[""bat""]",bat,What was the toss decision in the T20 match between Zimbabwe and Pakistan on 2011-09-18 at Harare Sports Club?,"In the T20 match between Zimbabwe and Pakistan on September 18, 2011, at Harare Sports Club, Pakistan won the toss and elected to bat. ([dawn.com](https://www.dawn.com/news/659865/pakistan-win-toss-elect-to-bat-in-final-t20?utm_source=openai))
+
+```json
+{""choice"":""bat""}
+```"
+31,top_scorer_runs,t20s_male/1425128.yaml,1,1,0,57,57,"How many runs did Towhid Hridoy score in the match between Bangladesh and Zimbabwe on 2024-05-07 at Zahur Ahmed Chowdhury Stadium, Chattogram?","{""number"": 57}"
+32,team_total,t20s_male/356005.yaml,1,1,0,131,131,How many runs did 2nd innings score in the match on 2009-06-12 at Lord's?,"{""number"": 131}"
+33,top_scorer_runs,t20s_male/1475526.yaml,1,1,0,76,76,"How many runs did Asif Ali score in the match between Hong Kong and Bahrain on 2025-03-11 at Bayuemas Oval, Kuala Lumpur?","{""number"": 76}"
+34,match_winner,t20s_male/439146.yaml,1,1,0,"[""South Africa""]",South Africa,"Who won the match between West Indies and South Africa on 2010-05-19 at Sir Vivian Richards Stadium, North Sound?","{""choice"":""South Africa""}"
+35,toss_winner,t20s_male/1273718.yaml,1,1,0,"[""Namibia""]",Namibia,"Who won the toss in the T20 match between Netherlands and Namibia on 2021-10-20 at Zayed Cricket Stadium, Abu Dhabi?","{""choice"":""Namibia""}"
+36,top_scorer_name,t20s_male/1187681.yaml,1,1,0,"[""RG Sharma""]",RG Sharma,Who scored the most runs in the match between New Zealand and India on 2020-02-02 at Bay Oval?,"{""choice"": ""RG Sharma""}"
+37,total_match_runs,t20s_male/1361772.yaml,1,1,0,347,347,"What was the total runs scored in the match between Malaysia and Bahrain on 2023-03-09 at Mission Road Ground, Mong Kok, Hong Kong (both teams combined)?","{""number"": 347}"
+38,team_total,t20s_male/1321271.yaml,1,1,0,48,48,How many runs did 2nd innings score in the match on 2022-07-16 at Tikkurila Cricket Ground?,"On July 16, 2022, at Tikkurila Cricket Ground, Cyprus scored 183 runs in the first innings, and Turkey scored 48 runs in the second innings. ([howstat.com](https://www.howstat.com/Cricket/Statistics/Matches/MatchScorecard_T20.asp?MatchCode=1711&utm_source=openai))
+
+Therefore, the second innings score was 48 runs.
+
+{""number"": 48}"
+39,toss_decision,t20s_male/1439825.yaml,1,1,0,"[""field""]",field,What was the toss decision in the T20 match between Gibraltar and Sweden on 2024-07-11 at Bayer Uerdingen Cricket Ground?,"{""choice"":""field""}"
+40,toss_winner,t20s_male/1472524.yaml,1,1,0,"[""Australia""]",Australia,"Who won the toss in the T20 match between West Indies and Australia on 2025-07-28 at Warner Park, Basseterre, St Kitts?","{""choice"":""Australia""}"
+41,team_total,t20s_male/1407103.yaml,1,1,0,99,99,"How many runs did 2nd innings score in the match on 2023-11-28 at Wanderers Cricket Ground, Windhoek?","On November 28, 2023, at the Wanderers Cricket Ground in Windhoek, Namibia played against Tanzania in a T20I match. Namibia batted first, scoring 157/6 in their 20 overs. In the second innings, Tanzania scored 99/6 in their 20 overs. ([indiatvnews.com](https://www.indiatvnews.com/sports/cricket/teams/namibia/10798?utm_source=openai))
+
+Therefore, the second innings score was 99 runs.
+
+```json
+{""number"": 99}
+```"
+42,team_total,t20s_male/1370790.yaml,1,1,0,106,106,"How many runs did 2nd innings score in the match on 2023-05-20 at Solvangs Park, Glostrup?","On May 20, 2023, at Solvangs Park, Glostrup, Finland scored 102 runs in the first innings, and Norway scored 106 runs in the second innings. ([timesofindia.indiatimes.com](https://timesofindia.indiatimes.com/sports/cricket/match-center/nordic-t20-cup-2023--vs--live-cricket-score/scorecard/matchfile-finny05202023226299.cms?utm_source=openai))
+
+```json
+{""number"": 106}
+```"
+43,match_winner,t20s_male/1321304.yaml,1,1,0,"[""Austria""]",Austria,Who won the match between Norway and Austria on 2022-07-31 at Kerava National Cricket Ground?,"{""choice"":""Austria""}"
+44,team_total,t20s_male/1275054.yaml,1,0,1,120,116,"How many runs did 2nd innings score in the match on 2021-09-11 at Desert Springs Cricket Ground, Almeria?","{""number"": 116}"
+45,toss_winner,t20s_male/966765.yaml,1,1,0,"[""India""]",India,Who won the toss in the T20 match between Bangladesh and India on 2016-03-06 at Shere Bangla National Stadium?,"{""choice"":""India""}"
+46,top_wicket_taker_name,t20s_male/1400972.yaml,1,1,0,"[""C Udekwe"", ""E Rukiriza""]",C Udekwe,"Who took the most wickets in the match between Nigeria and Rwanda on 2023-10-04 at Tafawa Balewa Square Cricket Oval, Lagos?","In the match between Nigeria and Rwanda on October 4, 2023, at Tafawa Balewa Square Cricket Oval, Lagos, Chiemelie Udekwe took the most wickets, claiming 3 for 14 in 4 overs. ([cricbuzz.com](https://www.cricbuzz.com/live-cricket-scorecard/82143/nga-vs-rwa-1st-match-west-africa-trophy-2023?utm_source=openai))
+
+Among the provided options, ""C Udekwe"" corresponds to Chiemelie Udekwe.
+
+Therefore, the answer is:
+
+
+```json
+{""choice"": ""C Udekwe""}
+```"
+47,victory_margin_runs,t20s_male/1432195.yaml,1,0,1,86,9,By how many runs was the match between France and Malta on 2024-05-09 at Dreux Sport Cricket Club won?,"{""number"": 9}"
+48,top_wicket_taker_wickets,t20s_male/1283036.yaml,1,1,0,3,3,How many wickets did E Sebareme take in the match between Rwanda and Lesotho on 2021-10-20 at Integrated Polytechnic Regional Centre?,"{""number"": 3}"
+49,top_wicket_taker_name,t20s_male/1450770.yaml,0,0,0,"[""LJ Myott""]",,"Who took the most wickets in the match between Philippines and Indonesia on 2024-09-29 at Yeonhui Cricket Ground, Incheon?","Liam Myott took the most wickets in the match between the Philippines and Indonesia on September 29, 2024, at Yeonhui Cricket Ground, Incheon, with four wickets.
+
+([espncricinfo.com](https://www.espncricinfo.com/series/t20-world-cup-east-asia-pacific-region-qualifier-b-2024-1450719/indonesia-vs-philippines-3rd-match-1450770/live-cricket-score?utm_source=openai))"
+50,toss_decision,t20s_male/1496831.yaml,1,1,0,"[""bat""]",bat,"What was the toss decision in the T20 match between Cyprus and Croatia on 2025-08-08 at Mladost Cricket Ground, Zagreb?","{""choice"":""bat""}"
+51,victory_margin_runs,t20s_male/439146.yaml,1,1,0,13,13,"By how many runs was the match between West Indies and South Africa on 2010-05-19 at Sir Vivian Richards Stadium, North Sound won?","{""number"": 13}"
+52,top_scorer_name,t20s_male/1393309.yaml,1,1,0,"[""E Dusingizimana""]",E Dusingizimana,"Who scored the most runs in the match between Uganda and Rwanda on 2023-08-20 at Gahanga International Cricket Stadium, Rwanda?","{""choice"": ""E Dusingizimana""}"
+53,toss_decision,t20s_male/1481296.yaml,1,1,0,"[""bat""]",bat,"What was the toss decision in the T20 match between Panama and Turks and Caicos Island on 2025-04-17 at Clayton Panama, Panama City?","{""choice"":""bat""}"
+54,top_wicket_taker_wickets,t20s_male/966755.yaml,1,1,0,3,3,How many wickets did Amjad Javed take in the match between Pakistan and United Arab Emirates on 2016-02-29 at Shere Bangla National Stadium?,"{""number"": 3}"
+55,team_total,t20s_male/1426457.yaml,1,0,1,144,174,How many runs did 2nd innings score in the match on 2024-04-12 at Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1)?,"{""number"": 174}"
+56,top_scorer_name,t20s_male/1436474.yaml,1,1,0,"[""Karanbir Singh""]",Karanbir Singh,"Who scored the most runs in the match between Austria and Romania on 2024-06-09 at Simar Cricket Ground, Rome?","{""choice"": ""Karanbir Singh""}"
+57,match_winner,t20s_male/1310172.yaml,1,1,0,"[""Hungary""]",Hungary,Who won the match between Gibraltar and Hungary on 2022-05-10 at Marsa Sports Club?,"{""choice"":""Hungary""}"
+58,team_total,t20s_male/1403293.yaml,1,1,0,143,143,How many runs did 2nd innings score in the match on 2023-10-25 at Mulpani Cricket Ground?,"{""number"": 143}"
+59,top_scorer_runs,t20s_male/1383106.yaml,1,1,0,59,59,"How many runs did S Pradhan score in the match between Bhutan and China on 2023-07-30 at Bayuemas Oval, Kuala Lumpur?","{""number"": 59}"
+60,victory_margin_wkts,t20s_male/1275276.yaml,1,1,0,8,8,"By how many wickets was the match between Malta and Hungary on 2021-09-05 at Moara Vlasiei Cricket Ground, Ilfov County won?","{""number"": 8}"
+61,toss_decision,t20s_male/1462884.yaml,1,1,0,"[""bat""]",bat,"What was the toss decision in the T20 match between Panama and Bermuda on 2024-12-08 at St Albans Club, Buenos Aires?","{""choice"":""bat""}"
+62,top_scorer_runs,t20s_male/659547.yaml,1,1,0,98,98,How many runs did Ahmed Shehzad score in the match between Zimbabwe and Pakistan on 2013-08-24 at Harare Sports Club?,"{""number"": 98}"
+63,team_total,t20s_male/1034827.yaml,1,1,0,144,144,"How many runs did 1st innings score in the match on 2017-01-29 at Vidarbha Cricket Association Stadium, Jamtha?","On January 29, 2017, at the Vidarbha Cricket Association Stadium in Jamtha, Nagpur, India batted first in a T20 International match against England, scoring 144 runs for 8 wickets in their 20 overs. ([sportsf1.com](https://sportsf1.com/cricket-pitch-report/vidarbha-cricket-association-stadium-jamtha-nagpur?utm_source=openai))
+
+Therefore, the first innings score was 144 runs.
+
+{""number"": 144}"
+64,total_match_runs,t20s_male/1472523.yaml,1,1,0,411,411,"What was the total runs scored in the match between West Indies and Australia on 2025-07-26 at Warner Park, Basseterre, St Kitts (both teams combined)?","{""number"": 411}"
+65,total_match_runs,t20s_male/533283.yaml,1,1,0,353,353,What was the total runs scored in the match between Bangladesh and Pakistan on 2012-09-25 at Pallekele International Cricket Stadium (both teams combined)?,"{""number"": 353}"
+66,team_total,t20s_male/1383102.yaml,1,0,1,105,23,"How many runs did 1st innings score in the match on 2023-07-26 at Bayuemas Oval, Kuala Lumpur?","{""number"": 23}"
+67,total_match_runs,t20s_male/1389393.yaml,1,1,0,447,447,"What was the total runs scored in the match between India and Australia on 2023-11-28 at Barsapara Cricket Stadium, Guwahati (both teams combined)?","{""number"": 447}"
+68,toss_decision,t20s_male/1405326.yaml,1,1,0,"[""bat""]",bat,What was the toss decision in the T20 match between United Arab Emirates and Nepal on 2023-11-03 at Mulpani Cricket Ground?,"{""choice"":""bat""}"
+69,top_scorer_name,t20s_male/1423442.yaml,1,1,0,"[""S Bau""]",S Bau,"Who scored the most runs in the match between Hong Kong and Papua New Guinea on 2024-03-12 at Mission Road Ground, Mong Kok, Hong Kong?","The highest run-scorer in the match between Hong Kong and Papua New Guinea on March 12, 2024, at Mission Road Ground, Mong Kok, Hong Kong, was Sese Bau, who scored 61 runs. ([espncricinfo.com](https://www.espncricinfo.com/series/hong-kong-men-s-t20i-series-2023-24-1423433/hong-kong-vs-papua-new-guinea-3rd-match-1423442/live-cricket-score?utm_source=openai))
+
+{""choice"":""S Bau""}"
+70,total_match_runs,t20s_male/1447495.yaml,1,1,0,92,92,"What was the total runs scored in the match between Myanmar and Singapore on 2024-09-09 at Bayuemas Oval, Kuala Lumpur (both teams combined)?","{""number"": 92}"
+71,team_total,t20s_male/1343778.yaml,1,1,0,122,122,How many runs did 2nd innings score in the match on 2022-12-04 at Gahanga International Cricket Stadium. Rwanda?,"{""number"": 122}"
+72,team_total,t20s_male/1190768.yaml,1,0,1,162,186,How many runs did 1st innings score in the match on 2019-07-22 at Indian Association Ground?,"{""number"": 186}"
+73,top_wicket_taker_name,t20s_male/848841.yaml,1,1,0,"[""K Rabada""]",K Rabada,Who took the most wickets in the match between South Africa and New Zealand on 2015-08-16 at SuperSport Park?,"In the T20I match between South Africa and New Zealand on August 16, 2015, at SuperSport Park, Kagiso Rabada took the most wickets, claiming 3 for 30 in his 4 overs. ([howstat.com](https://www.howstat.com/Cricket/Statistics/Matches/MatchScorecard_T20.asp?MatchCode=0464&utm_source=openai))
+
+Among the provided options, the player with the most wickets in that match is Kagiso Rabada.
+
+{""choice"": ""K Rabada""}"
+74,team_total,t20s_male/1422809.yaml,1,0,1,103,96,"How many runs did 2nd innings score in the match on 2024-03-06 at Bayuemas Oval, Kuala Lumpur?","{""number"": 96}"
+75,total_match_runs,t20s_male/1343793.yaml,1,1,0,219,219,What was the total runs scored in the match between Gambia and Cameroon on 2022-12-09 at Integrated Polytechnic Regional Centre (both teams combined)?,"{""number"": 219}"
+76,team_total,t20s_male/1428151.yaml,1,1,0,167,167,"How many runs did 1st innings score in the match on 2024-05-18 at Sportpark Westvliet, The Hague?","{""number"": 167}"
+77,team_total,t20s_male/1199544.yaml,1,1,0,134,134,How many runs did 1st innings score in the match on 2019-10-30 at Dubai International Cricket Stadium?,"{""number"": 134}"
+78,match_winner,t20s_male/1233954.yaml,1,1,0,"[""New Zealand""]",New Zealand,Who won the match between West Indies and New Zealand on 2020-11-27 at Eden Park?,"{""choice"":""New Zealand""}"
+79,top_wicket_taker_wickets,t20s_male/1199504.yaml,1,1,0,2,2,How many wickets did DG Blampied take in the match between Jersey and Nigeria on 2019-10-19 at Sheikh Zayed Stadium?,"{""number"": 2}"
+80,toss_winner,t20s_male/1438079.yaml,1,0,1,"[""Cyprus""]",Estonia,Who won the toss in the T20 match between Estonia and Cyprus on 2024-06-19 at Happy Valley Ground?,"{""choice"":""Estonia""}"
+81,total_match_runs,t20s_male/1399157.yaml,1,1,0,175,175,"What was the total runs scored in the match between Panama and Bermuda on 2023-10-04 at National Stadium, Hamilton (both teams combined)?","{""number"": 175}"
+82,toss_decision,t20s_male/1475527.yaml,1,1,0,"[""bat""]",bat,"What was the toss decision in the T20 match between Hong Kong and Malaysia on 2025-03-12 at Bayuemas Oval, Kuala Lumpur?","{""choice"":""bat""}"
+83,team_total,t20s_male/1322363.yaml,1,1,0,141,141,"How many runs did 1st innings score in the match on 2023-04-05 at University Oval, Dunedin?","{""number"": 141}"
+84,top_wicket_taker_wickets,t20s_male/1381454.yaml,1,1,0,5,5,"How many wickets did P Mishra take in the match between Croatia and Bulgaria on 2023-06-23 at National Sports Academy, Sofia?","{""number"": 5}"
+85,victory_margin_wkts,t20s_male/1271631.yaml,1,1,0,9,9,"By how many wickets was the match between Sri Lanka and South Africa on 2021-09-12 at R Premadasa Stadium, Colombo won?","{""number"": 9}"
+86,team_total,t20s_male/1490873.yaml,1,1,0,168,168,How many runs did 1st innings score in the match on 2025-07-08 at Udayana Cricket Ground?,"{""number"": 168}"
+87,match_winner,t20s_male/930577.yaml,1,1,0,"[""Oman""]",Oman,Who won the match between Hong Kong and Oman on 2015-11-25 at Sheikh Zayed Stadium?,"{""choice"":""Oman""}"
+88,total_match_runs,t20s_male/1343775.yaml,1,1,0,301,301,What was the total runs scored in the match between Eswatini and Mozambique on 2022-12-02 at Integrated Polytechnic Regional Centre (both teams combined)?,"{""number"": 301}"
+89,top_wicket_taker_name,t20s_male/682931.yaml,1,1,0,"[""DW Steyn""]",DW Steyn,Who took the most wickets in the match between New Zealand and South Africa on 2014-03-24 at Zahur Ahmed Chowdhury Stadium?,"{""choice"":""DW Steyn""}"
+90,toss_decision,t20s_male/1320986.yaml,1,1,0,"[""bat""]",bat,"What was the toss decision in the T20 match between Spain and Belgium on 2022-07-04 at Royal Brussels Cricket Club Ground, Waterloo?","{""choice"":""bat""}"
+91,top_wicket_taker_wickets,t20s_male/1494094.yaml,1,1,0,2,2,How many wickets did A Shukla take in the match between Hong Kong and Singapore on 2025-07-20 at Singapore National Cricket Ground?,"{""number"": 2}"
+92,toss_decision,t20s_male/1442988.yaml,1,1,0,"[""field""]",field,What was the toss decision in the T20 match between Sri Lanka and India on 2024-07-28 at Pallekele International Cricket Stadium?,"{""choice"":""field""}"
+93,toss_decision,t20s_male/1321272.yaml,1,1,0,"[""bat""]",bat,What was the toss decision in the T20 match between Italy and Croatia on 2022-07-16 at Kerava National Cricket Ground?,"{""choice"":""bat""}"
+94,team_total,t20s_male/1426830.yaml,1,1,0,182,182,"How many runs did 1st innings score in the match on 2024-05-10 at Castle Avenue, Dublin?","{""number"": 182}"
+95,total_match_runs,t20s_male/1418540.yaml,1,1,0,363,363,"What was the total runs scored in the match between Japan and Hong Kong on 2024-02-14 at Mission Road Ground, Mong Kok, Hong Kong (both teams combined)?","{""number"": 363}"
+96,top_scorer_name,t20s_male/1122729.yaml,1,1,0,"[""KL Rahul""]",KL Rahul,Who scored the most runs in the match between India and Sri Lanka on 2017-12-20 at Barabati Stadium?,"{""choice"":""KL Rahul""}"
+97,team_total,t20s_male/1422811.yaml,1,1,0,110,110,"How many runs did 1st innings score in the match on 2024-03-07 at Bayuemas Oval, Kuala Lumpur?","{""number"": 110}"
+98,top_wicket_taker_wickets,t20s_male/1273714.yaml,1,1,0,4,4,"How many wickets did C Campher take in the match between Netherlands and Ireland on 2021-10-18 at Zayed Cricket Stadium, Abu Dhabi?","{""number"": 4}"
+99,total_match_runs,t20s_male/894293.yaml,1,1,0,316,316,What was the total runs scored in the match between Zimbabwe and New Zealand on 2015-08-09 at Harare Sports Club (both teams combined)?,"{""number"": 316}"
+100,team_total,t20s_male/966757.yaml,1,1,0,142,142,How many runs did 2nd innings score in the match on 2016-03-01 at Shere Bangla National Stadium?,"On March 1, 2016, at the Shere Bangla National Stadium, India played against Sri Lanka in the Asia Cup. Sri Lanka batted first, scoring 138 runs in their innings. India, batting second, scored 142 runs in 19.2 overs, winning the match by 5 wickets. ([sportsyaari.com](https://www.sportsyaari.com/cricket/ind-vs-sl-7th-match-asia-cup-2016-live-score-10341/?utm_source=openai))
+
+Therefore, the second innings score in that match was 142 runs.
+
+```json
+{""number"": 142}
+```"

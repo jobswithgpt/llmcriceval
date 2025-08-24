@@ -1,0 +1,78 @@
+{
+  "n": 100,
+  "answer_rate": 0.98,
+  "accuracy_overall": 0.89,
+  "accuracy_when_answered": 0.9081632653061225,
+  "hallucination_rate_when_answered": 0.09183673469387756,
+  "by_type": {
+    "top_wicket_taker_wickets": {
+      "n": 11,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "victory_margin_runs": {
+      "n": 4,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 0.75,
+      "hallucination_rate_when_answered": 0.25
+    },
+    "top_scorer_name": {
+      "n": 8,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 0.875,
+      "hallucination_rate_when_answered": 0.125
+    },
+    "match_winner": {
+      "n": 8,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "team_total": {
+      "n": 22,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 0.7272727272727273,
+      "hallucination_rate_when_answered": 0.2727272727272727
+    },
+    "toss_decision": {
+      "n": 13,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "toss_winner": {
+      "n": 8,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 0.875,
+      "hallucination_rate_when_answered": 0.125
+    },
+    "top_wicket_taker_name": {
+      "n": 8,
+      "answer_rate": 0.75,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "total_match_runs": {
+      "n": 12,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "top_scorer_runs": {
+      "n": 4,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    },
+    "victory_margin_wkts": {
+      "n": 2,
+      "answer_rate": 1.0,
+      "accuracy_when_answered": 1.0,
+      "hallucination_rate_when_answered": 0.0
+    }
+  },
+  "outputs_jsonl": "gpt-4o-search-preview/outputs.jsonl",
+  "items_csv": "gpt-4o-search-preview/items.csv",
+  "wrong_csv": "gpt-4o-search-preview/wrong.csv"
+}
