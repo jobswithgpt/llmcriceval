@@ -94,3 +94,4 @@ python scripts/eval.py --qa t20_qa_sample.jsonl --model gpt-4o-search-preview  -
 
 **Attribution:** Thanks to CricSheet for high-quality structured scorecards: [https://cricsheet.org](https://cricsheet.org)
 
+Also available at [https://kaamvaam.com/machine-learning-ai/llm-eval-hallucinations-t20-cricket/](blog)
